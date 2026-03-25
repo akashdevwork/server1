@@ -1,0 +1,3 @@
+#!/bin/bash
+# Server Management Tool entry point
+python src/main.py
